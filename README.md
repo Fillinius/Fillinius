@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Vladimir
 
 I live in Nizhny Novgorod
-- 💬 Ask me about: Step by step I descover world IT
+- 💬 About me: Step by step I descover world IT
 
 <!--
 **Fillinius/Fillinius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
