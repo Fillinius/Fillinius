@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Vladimir
 
-I live in Nizhny Novgorod
+Location: Nizhny Novgorod
 - 💬 About me: Step by step I descover world IT
   
 <!--
