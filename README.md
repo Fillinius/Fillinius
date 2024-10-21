@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Vladimir
+### Hi there 👋
 
 Location: Nizhny Novgorod
 - 💬 About me: Step by step I descover world IT
