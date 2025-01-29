@@ -1,16 +1,16 @@
-### Всме привет 👋
+### Всем привет 👋
 
 Location: Nizhny Novgorod
 
 Занимаюсь программированием с 2022г.
  Основной мой стек на сегодня 
  Мой основной технологический стек на сегодня:
-  -ReactJS / ReactTs
- -Redux
--Typescrypt
--Flow
--Webpack
--HTML5 / CSS3 -
+  - ReactJS / ReactTs
+  - Redux
+  - Typescrypt
+  - Flow
+  - Webpack
+  - HTML5 / CSS3 -
   
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Fillinius=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
