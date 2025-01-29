@@ -1,9 +1,6 @@
 ### Всем привет 👋
 
-Location: Nizhny Novgorod
-
 Занимаюсь программированием с 2022г.
-
 Мой основной технологический стек на сегодня:
   - ReactJS / ReactTs
   - Redux, RTK
@@ -15,6 +12,8 @@ Location: Nizhny Novgorod
   - Next
   - тестирование Jest
   - ci/cd
+
+Связаться со мной можно через телеграмм https://t.me/@fillinius
   
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Fillinius=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
