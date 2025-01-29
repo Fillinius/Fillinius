@@ -14,7 +14,7 @@
   - тестирование Jest
   - ci/cd
 
-Связаться со мной можно через телеграмм @fillinius
+Связаться со мной можно через телеграмм https://t.me/Fillinius
   
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Fillinius=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
