@@ -13,6 +13,7 @@
   - Next
   - тестирование Jest
   - ci/cd
+  - Docker
 
 Связаться со мной можно через телеграмм https://t.me/Fillinius
   
