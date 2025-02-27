@@ -15,7 +15,7 @@
   - ci/cd
   - Docker
 
-Связаться со мной можно через телеграмм https://t.me/Fillinius
+Связаться со мной можно через  [Tелеграмм](https://t.me/Fillinius)
   
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Fillinius=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
