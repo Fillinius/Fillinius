@@ -20,9 +20,9 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 </div>
 
- Так же изучал такие технологии:
+ Так же знаком с такими технологиями:
   - Next
-  - тестирование Jest
+  - тестирование Jest/Vitest
   - ci/cd
   - Docker
 
