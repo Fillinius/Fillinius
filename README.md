@@ -18,6 +18,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
+ <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftypeorm.io%2F&psig=AOvVaw07UVE-v9E83aOGeQdSlJ3l&ust=1757512157867000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPDti5Lpy48DFQAAAAAdAAAAABAE" alt="TypeOrm" height="50" /></a> 
 </div>
 
 ## Мой Backend стек:
