@@ -3,9 +3,9 @@
 Занимаюсь программированием с 2022г.
 
  Изучал технологии с [Result University](https://result.school/). Прошел путь от junior до middle разработчика.
- Основные значимые проекты прикреплены ниже (некоторые с web версией на gitHub Page).
+ Некоторые проекты прикреплены ниже (многие с web версией на gitHub Page).
 
-## Мой основной Frontend технологический стек на сегодня:
+## Мой основной Frontend стек:
 
 <div>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -20,7 +20,7 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 </div>
 
-## Мой Backend технологический стек на сегодня:
+## Мой Backend стек:
 <div>
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
