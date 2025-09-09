@@ -20,9 +20,13 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 </div>
 
+## Мой Backend технологический стек на сегодня:
+<div>
+ <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/react-original-wordmark.sv](https://nodejs.org/)g" alt="Node" height="50" /></a>
+</div>
+
  Так же знаком с такими технологиями:
-  - Next
-  - тестирование Jest/Vitest
+    - тестирование Jest/Vitest
   - ci/cd
   - Docker
 
