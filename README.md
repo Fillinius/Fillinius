@@ -40,6 +40,13 @@
   - Docker
 
 Связаться со мной можно через  [Tелеграм](https://t.me/Fillinius)
+
+## Текущий разрабатываемый продукт:
+[Онлайн площадка для аграриев]([https://t.me/Fillinius](https://xn--e1aedkmddr7af0f.xn--p1ai/))
+Front
+ - NextJS, TS, AntDesigne, SaSS, RTQ
+Back
+- NestJS, Swagger, TypeORM, mySQL, Telegram
   
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Fillinius=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
